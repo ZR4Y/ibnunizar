@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Yahahahahaha Hapus Credit/rename gw doain tobat lu
+#RENAME = DELETE
 #semoga harimu menyenangkan
 
 import random
@@ -7,10 +7,10 @@ import socket
 import threading
 import os
 os.system("clear")
-print("AUTHOR : Yark✞")
-print("CREDIT : Yark⋊")
-print("TEAM : Morx")
-print("From : USA")
+print("AUTHOR : Nizar")
+print("CREDIT : Nizar")
+print("TEAM : Sec")
+print("From : Indonesia")
 print("DON'T ABUSE")
 ip = str(input(" Ip/Host : "))
 port = int(input(" Port Target : "))
