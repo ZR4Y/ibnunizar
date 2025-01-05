@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #RENAME = DELETE
-#semoga harimu menyenangkan
+#for learning
 
 import random
 import socket
@@ -9,7 +9,7 @@ import os
 os.system("clear")
 print("AUTHOR : Nizar")
 print("CREDIT : Nizar")
-print("TEAM : Sec")
+print("TEAM : Sec21")
 print("From : Indonesia")
 print("DON'T ABUSE")
 ip = str(input(" Ip/Host : "))
